@@ -8,7 +8,7 @@
 
 import UIKit
 
-@UIApplicationMain
+@UIApplicationMain //it creates the entry point to your app and run a look that delivers input events to your app.
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
